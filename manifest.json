@@ -1,0 +1,11 @@
+{
+  "name": "PHP Console",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A DevTools extension to iframe the PHP Console.",
+  "devtools_page": "devtools.html",
+  "permissions": ["tabs"],
+  "icons": {
+    "128": "image.png"
+  }
+}
