@@ -8,7 +8,7 @@ A simple Chrome extension to iframe a PHP console. This package utilizes [Spatie
 2. Navigate to `chrome://extensions/` in your browser.
 3. Enable "Developer mode" in the top right corner (if not already enabled).
 4. Click "Load unpacked" and select the `php-ext` folder.
-5. Within any Laravel project, install the Spatie Laravel Web Tinker package: `composer require spatie/laravel-web-tinker`
+5. Within any Laravel project, install the Spatie Laravel Web Tinker package: `composer require spatie/laravel-web-tinker --dev`
 
 ## Run Tinker in DevTools
 
